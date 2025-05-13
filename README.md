@@ -13,8 +13,10 @@ A modern, responsive static website showcasing a furniture collection. Built wit
 
 Furniture-web-main/ 
 └── HTML-CSS-3/ 
-├── *.png / *.webp / *.svg — images and icons 
-├── bootstrap.css — styling via Bootstrap 
+├── *.png / *.webp / *.svg
+— images and icons 
+├── bootstrap.css
+— styling via.Bootstrap 
 └── index.html (or similar HTML files)
 
 ## Getting Started
